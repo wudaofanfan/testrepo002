@@ -1,6 +1,3 @@
 # testrepo002
 
-added by wudaofanfan
-
-line 3 added
-
+Now there are 3 files: 111,222,333
